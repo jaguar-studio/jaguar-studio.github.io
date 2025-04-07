@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Tên Game</title>
+  <title>Jaguar Studio</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet"/>
   <style>
     * {
@@ -66,15 +66,14 @@
   </style>
 </head>
 <body>
-
-  <img src="https://via.placeholder.com/200x200.png?text=Logo" alt="Game Logo" class="logo" />
-
-  <h1>Tên Game Của Bạn</h1>
-  <p class="description">Game chiến thuật phòng thủ kịch tính, đơn giản nhưng gây nghiện! Bắt đầu cuộc chiến sinh tồn ngay hôm nay!</p>
+  <h1>Jaguar Studio</h1>
+  <p class="description">Better Apps and Games For You
+We are team of talented designers making games and apps
+</p>
   
-  <a href="https://play.google.com" class="download-button">Tải trên Google Play</a>
+  <a href="https://play.google.com/store/apps/developer?id=Jaguar+Studio" class="download-button">Go to my Google Store</a>
 
-  <footer>© 2025 Tên Studio của bạn</footer>
+  <footer>© Copyright Jaguar Studio. All Rights Reserved</footer>
 
 </body>
 </html>
